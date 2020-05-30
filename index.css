@@ -12,8 +12,7 @@ body {
  
 }
 nav {
-    margin: 0px;
-    padding: 5px;
+
     width: 100%;
     min-height: 150px;
     height: 200px;
@@ -28,12 +27,18 @@ nav {
     
 }
 div {
-    margin: 50px;
+
     width: 100%;
     height: 100%;
+    background-color:whitesmoke;
+    color:black;
+    padding: 8em 0;
+    position: relative;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
 img {
     margin: 5px;
 }
+
