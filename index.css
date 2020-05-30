@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+   
+ 
+}
+body {
+    font: 400 14px Roboto, sans-serif;
+    background: white;
+ 
+}
+nav {
+    margin: 0px;
+    padding: 5px;
+    width: 100%;
+    min-height: 150px;
+    height: 200px;
+    max-height: 300px;
+    background-color:rgba(0, 0, 0, 1);
+    display: flexbox;
+    color: whitesmoke;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+div {
+    margin: 50px;
+}
