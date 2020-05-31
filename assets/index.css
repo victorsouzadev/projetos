@@ -3,12 +3,13 @@
     padding: 0;
     outline: 0;
     box-sizing: border-box;
+    
    
  
 }
 body {
     font: 400 14px Roboto, sans-serif;
-    background: white;
+    background-color:whitesmoke;
  
 }
 nav {
@@ -26,19 +27,20 @@ nav {
     align-items: center;
     
 }
-div {
-
-    width: 100%;
-    height: 100%;
-    background-color:whitesmoke;
+.imagens {
+    
     color:black;
-    padding: 8em 0;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    
+
 }
+.projeto {
+    font-size: xx-large;
+    margin: 2em;
+}
+
+
 img {
-    margin: 5px;
+
 }
 
