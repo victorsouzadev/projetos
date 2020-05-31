@@ -57,7 +57,18 @@ img {
 @media only screen and (max-device-width: 900px) {
     /* .menu { width:100%; } */
     .projeto{
+        justify-content: center;
+        align-items: center;
+        margin: 2em;
         font-size: medium;
     }
+    
+    .descricao{
+            text-align: justify;
+            text-justify: inter-word;
+            margin-bottom: 1em;
+            margin-top: 0.5em;
+            text-indent: 2em;
+    }  
 }
 
