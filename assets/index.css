@@ -13,17 +13,25 @@ body {
 
     
 }
+.sessao{
+    margin-top: 1em;
+    font-size: xx-large;
+}
+.name{
+    font-size: x-large;
+
+}
 nav {
 
     width: 100%;
     min-height: 150px;
-    height: 200px;
-    max-height: 300px;
+    height: 400px;
+    max-height: 600px;
     background-color:rgba(0, 0, 0, 1);
-    display: flexbox;
-    color: whitesmoke;
-    font-size: xx-large;
     display: flex;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     
@@ -31,8 +39,8 @@ nav {
 .avatar{
     border-radius: 50%;
     width: 100%;
-    max-width: 120px;
-    max-height: 120px;
+    max-width: 80px;
+    max-height: 80px;
     height: auto;
 
 }
@@ -48,7 +56,7 @@ nav {
     align-items: left;
     margin: 2em;
     font-size: large;
-    max-width: 60%;
+    max-width: 70%;
 }
 
 .descricao{
