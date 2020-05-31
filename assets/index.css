@@ -44,6 +44,7 @@ nav {
     align-items: center;
     margin: 2em;
     font-size: large;
+    max-width: 70%;
 }
 
 .descricao{
@@ -52,6 +53,13 @@ nav {
         margin-bottom: 1em;
         margin-top: 0.5em;
         text-indent: 2em;
+}  
+.projetos{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }  
 
 
