@@ -10,7 +10,8 @@
 body {
     font: 400 14px Roboto, sans-serif;
     background-color:whitesmoke;
- 
+
+    
 }
 nav {
 
@@ -34,13 +35,19 @@ nav {
     
 
 }
-.projeto {
-    font-size: xx-large;
+.projeto{
+    justify-content: center;
+    align-items: center;
     margin: 2em;
 }
 
+.descricao{
+        text-align: justify;
+        text-justify: inter-word;
+}  
+
 
 img {
-
+    margin: 0.2em;
 }
 
