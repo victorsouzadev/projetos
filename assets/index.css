@@ -46,10 +46,7 @@ nav {
     margin: 2em;
     font-size: large;
     max-width: 70%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+
 }
 
 .descricao{
