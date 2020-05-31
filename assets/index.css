@@ -27,7 +27,7 @@ nav {
     min-height: 150px;
     height: 400px;
     max-height: 600px;
-    background-color:rgba(0, 0, 0, 1);
+    background-color:rgba(0, 0, 0, 0.9);
     display: flex;
     color: whitesmoke;
     display: flex;
