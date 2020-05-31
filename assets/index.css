@@ -54,7 +54,7 @@ img {
 @media only screen and (max-device-width: 900px) {
     /* .menu { width:100%; } */
     .projeto{
-        font-size: small;
+        font-size: x-small;
     }
 }
 
