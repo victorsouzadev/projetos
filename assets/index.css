@@ -51,4 +51,10 @@ nav {
 img {
     margin: 0.2em;
 }
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:100%; } */
+    .projeto{
+        font-size: small;
+    }
+}
 
